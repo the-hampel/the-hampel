@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Hampel - aka [the-hampel][website] 
 
-I am a data scientist at the Center for Computational Quantum Physics at the Flatiron Institute in New York. I am working on the TRIQS software library triqs.github.io, which is a powerful toolbox for the research in quantum systems. Moreover, I am investigating the behavior of complex transition-metal oxides using state of the art ab-initio simulation techniques. I obtained my Ph.D. in materials science from the ETH Zurich in 2019, where I investigated quantum materials exhibiting strong electron correlation effects, by using a combination of DFT and DMFT ab-initio simulation techniques.
+I am a scientific software developer at VASP Software GmbH, developing state-of-the-art material simulation software. Moreover, I am an active contributor to the TRIQS software library triqs.github.io, which is a powerful toolbox for research in quantum systems, and maintainer of the DFT+DMFT code triqs/solid_dmft. Previously, I worked at the Flatiron Institute in New York as a software scientist developing quantum embedding techniques for correlated quantum matter. I obtained my Ph.D. in materials science from the ETH Zurich in 2019, where I investigated quantum materials exhibiting strong electron correlation effects by using a combination of DFT and DMFT ab-initio simulation techniques.
 
 ### Connect with me:
 
